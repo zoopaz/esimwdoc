@@ -1,0 +1,4 @@
+# CODEOWNERS file
+/.github/CODEOWNERS @iu-apps/appkube-admins
+/Taskfile.yaml @iu-apps/appkube-admins
+/.github/workflows/* @iu-apps/appkube-admins
